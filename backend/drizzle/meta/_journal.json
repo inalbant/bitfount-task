@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1730224026772,
+      "tag": "0000_productive_domino",
+      "breakpoints": true
+    }
+  ]
+}
